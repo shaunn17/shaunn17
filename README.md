@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 💻 AI Engineer & Data Scientist building autonomous agents and scalable AI infrastructure
 - 🤖 Currently working on multimodal AI systems and production ML pipelines at IU Enterprise Services
 - 🔬 Passionate about LLMs, autonomous agents, and real-time AI applications
+ <!--
 - 📍 Based in Bloomington, IN
+-->
 - 📫 Reach me: [figueiroshaun@gmail.com](mailto:figueiroshaun@gmail.com)
 
 ## 🛠️ Tech Stack
