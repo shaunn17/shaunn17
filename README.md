@@ -73,12 +73,8 @@ Here are some ideas to get you started:
 - **Features:** Real-time collaboration, 20+ concurrent users, persistent storage
 - **Impact:** Seamless multi-user experience with sub-100ms latency
 
-### 🏥 [Autonomous Medical Image Analysis](https://github.com/shaunn17/medical-ai-analysis)
-> Production-grade ML infrastructure for medical imaging with ensemble methods
-- **Tech Stack:** Python, Azure Data Lake, scikit-learn, Computer Vision
-- **Features:** 84.4% classification accuracy, automated ETL workflows
-- **Impact:** Semi-supervised learning for real-time medical imaging processing
 
+<!--
 ## 🏆 Current Work & Achievements
 
 **🔧 Enterprise AI Infrastructure:**
