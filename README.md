@@ -61,13 +61,13 @@ Here are some ideas to get you started:
 - **Features:** Personalized recipe generation, 200k+ food items, strict JSON validation
 - **Impact:** Low-latency AI responses with full-stack SQLite integration
 
-### 📊 [MarketGuardian](https://github.com/shaunn17/market-guardian)
+### 📊 [MarketGuardian](https://github.com/shaunn17/MarketGuardian)
 > Financial anomaly detection system with multi-model AI analysis
 - **Tech Stack:** PyTorch, scikit-learn, GPT-4, Streamlit, Yahoo Finance API
 - **Features:** 64.78% fraud detection rate, real-time dashboard, automated recommendations
 - **Impact:** Multi-agent system with 100+ engineered OHLCV features
 
-### 🎨 [Real-time Collaborative Whiteboard](https://github.com/shaunn17/collaborative-whiteboard)
+### 🎨 [Real-time Collaborative Whiteboard](https://github.com/shaunn17/Real-Time-Collaborative-Whiteboard)
 > Multi-user drawing application with WebSockets and optimized performance
 - **Tech Stack:** TypeScript, Node.js, Socket.io, HTML5 Canvas
 - **Features:** Real-time collaboration, 20+ concurrent users, persistent storage
