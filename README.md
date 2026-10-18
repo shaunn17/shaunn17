@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🎓 MS in Data Science, Indiana University (2025)
 - 💻 Data scientist and AI engineer focused on LLM applications, NLP, and production ML pipelines
 - 🏢 Currently at EOG Resources in Houston, supporting an enterprise AI platform
-- 🔬 Passionate about Agentic AI, retrieval-augmented generation, multi-agent workflows, and making AI outputs verifiable
+- 🔬 Passionate about Agentic AI, retrieval-augmented generation (RAG), multi-agent workflows, and making AI outputs verifiable
 
 ## 🔭 Featured Project
 
@@ -130,12 +130,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-## 🎯 Areas of Expertise
-- **Autonomous AI Agents:** Multi-modal AI, RAG, LLM integration, prompt engineering
-- **Production ML Systems:** Scalable infrastructure, real-time processing, ensemble methods
-- **Financial AI:** Anomaly detection, time series analysis, automated trading systems
-- **MLOps & Cloud:** Azure, AWS, automated pipelines, model deployment
-- **Data Engineering:** ETL workflows, big data processing, API integration
+
 
 ## 🤝 Let's Connect!
 - 💼 LinkedIn: [linkedin.com/in/shaun-figueiro](https://linkedin.com/in/shaun-figueiro)
