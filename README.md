@@ -13,13 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm Shaun Figueiro
+# Hi, I'm Shaun Figueiro 👋
 
 ## 🚀 About Me
-- 🎓 MS in Data Science @ Indiana University (Class of 2025)
-- 💻 AI Engineer & Data Scientist building autonomous agents and scalable AI infrastructure
-- 🤖 Currently working on multimodal AI systems and production ML pipelines at IU Enterprise Services
-- 🔬 Passionate about LLMs, autonomous agents, and real-time AI applications
+
+- 🎓 MS in Data Science, Indiana University (2025)
+- 💻 Data scientist and AI engineer focused on LLM applications, NLP, and production ML pipelines
+- 🏢 Currently at EOG Resources in Houston, supporting an enterprise AI platform
+- 🔬 Interested in retrieval-augmented generation, multi-agent workflows, and making AI outputs verifiable
+
+## 🔭 Featured Project
+
+**[MarketGuardian](https://github.com/shaunn17/MarketGuardian)**: a financial anomaly detection system. Isolation Forest, Autoencoder, and GNN detectors flag unusual trading patterns, then a LangGraph multi-agent workflow retrieves SEC filings and news (RAG) to explain each anomaly with cited sources. It includes a Streamlit dashboard and an evaluation set for retrieval and citation quality.
+
+## 🛠️ Other Projects
+
+- **[FinTrack-AI](https://github.com/shaunn17/FinTrack-AI)**: spending, budgets, and investment tracking with AI-generated financial insights
+- **[NutrifyAI](https://github.com/shaunn17/NutrifyAI)**: recipe generation from your ingredients, with nutrition data from the USDA
+
+## 🧰 Tech Stack
+
+**AI/ML:** Python, PyTorch, scikit-learn, spaCy, LangGraph, Chroma, LLM APIs (OpenAI, Groq)
+**Data:** SQL, Snowflake, BigQuery, dbt, Airflow, PySpark
+**Apps:** Streamlit, FastAPI, Plotly
  <!--
 - 📍 Based in Bloomington, IN
 -->
