@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🎓 MS in Data Science, Indiana University (2025)
 - 💻 Data scientist and AI engineer focused on LLM applications, NLP, and production ML pipelines
 - 🏢 Currently at EOG Resources in Houston, supporting an enterprise AI platform
-- 🔬 Interested in retrieval-augmented generation, multi-agent workflows, and making AI outputs verifiable
+- 🔬 Passionate about Agentic AI, retrieval-augmented generation, multi-agent workflows, and making AI outputs verifiable
 
 ## 🔭 Featured Project
 
@@ -31,15 +31,9 @@ Here are some ideas to get you started:
 - **[FinTrack-AI](https://github.com/shaunn17/FinTrack-AI)**: spending, budgets, and investment tracking with AI-generated financial insights
 - **[NutrifyAI](https://github.com/shaunn17/NutrifyAI)**: recipe generation from your ingredients, with nutrition data from the USDA
 
-## 🧰 Tech Stack
-
-**AI/ML:** Python, PyTorch, scikit-learn, spaCy, LangGraph, Chroma, LLM APIs (OpenAI, Groq)
-**Data:** SQL, Snowflake, BigQuery, dbt, Airflow, PySpark
-**Apps:** Streamlit, FastAPI, Plotly
  <!--
 - 📍 Based in Bloomington, IN
 -->
-- 📫 Reach me: [figueiroshaun@gmail.com](mailto:figueiroshaun@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -56,11 +50,22 @@ Here are some ideas to get you started:
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Frameworks & Tools:**  
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+
+**Agents & Retrieval:**  
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Chroma](https://img.shields.io/badge/-Chroma-FF6446?style=flat-square)
+
+**Apps & Visualization:**  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Data Engineering:**  
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 **Cloud & Infrastructure:**  
@@ -69,7 +74,12 @@ Here are some ideas to get you started:
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 🔥 Featured Projects
+## 🔥 Other Projects
+
+### 💰 [FinTrack-AI](https://github.com/shaunn17/FinTrack-AI)
+> Personal finance tracker with AI-generated insights
+- **Tech Stack:** JavaScript, FastAPI, Groq Llama
+- **Features:** Spending tracking, budgets, investment monitoring, monthly AI insights and a financial health score
 
 ### 🤖 [NutrifyAI](https://github.com/shaunn17/NutrifyAI)
 > AI-powered recipe generation system using LLMs and structured data validation
@@ -77,19 +87,22 @@ Here are some ideas to get you started:
 - **Features:** Personalized recipe generation, 200k+ food items, strict JSON validation
 - **Impact:** Low-latency AI responses with full-stack SQLite integration
 
-### 📊 [MarketGuardian](https://github.com/shaunn17/MarketGuardian)
-> Financial anomaly detection system with multi-model AI analysis
-- **Tech Stack:** PyTorch, scikit-learn, GPT-4, Streamlit, Yahoo Finance API
-- **Features:** 64.78% fraud detection rate, real-time dashboard, automated recommendations
-- **Impact:** Multi-agent system with 100+ engineered OHLCV features
-
 ### 🎨 [Real-time Collaborative Whiteboard](https://github.com/shaunn17/Real-Time-Collaborative-Whiteboard)
 > Multi-user drawing application with WebSockets and optimized performance
 - **Tech Stack:** TypeScript, Node.js, Socket.io, HTML5 Canvas
 - **Features:** Real-time collaboration, 20+ concurrent users, persistent storage
 - **Impact:** Seamless multi-user experience with sub-100ms latency
 
+## 🎯 Areas of Expertise
 
+- **LLM Applications & RAG:** Retrieval pipelines, grounded and cited generation, prompt engineering
+- **Multi-Agent Workflows:** LangGraph orchestration, conditional routing, evaluation of agent output
+- **Financial AI:** Anomaly detection, time series analysis, risk analysis
+- **NLP & Ticket Automation:** spaCy and LLM pipelines for ServiceNow ticket routing
+- **Production ML:** Ensemble methods, real-time processing, model deployment
+- **Data Engineering:** ETL workflows, Snowflake, BigQuery, dbt, Airflow, PySpark
+
+  
 <!--
 ## 🏆 Current Work & Achievements
 
@@ -118,7 +131,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🎯 Areas of Expertise
-- **Autonomous AI Agents:** Multi-modal AI, LLM integration, prompt engineering
+- **Autonomous AI Agents:** Multi-modal AI, RAG, LLM integration, prompt engineering
 - **Production ML Systems:** Scalable infrastructure, real-time processing, ensemble methods
 - **Financial AI:** Anomaly detection, time series analysis, automated trading systems
 - **MLOps & Cloud:** Azure, AWS, automated pipelines, model deployment
